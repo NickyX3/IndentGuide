@@ -10,7 +10,7 @@
    </description>
 
    <url>
-      <update label="Indent Guide" url="https://github.com/sschaef/IndentGuide/tree/master/pdt_tools.indentGuide.updateSite"/>
+      <update label="Indent Guide" url="https://github.com/NickyX3/IndentGuide/tree/master/pdt_tools.indentGuide.updateSite"/>
    </url>
 
    <plugin
