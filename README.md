@@ -6,7 +6,7 @@ Warning: This repo is not actively maintained. Please fork and fix bugs by yours
 This plug-in adds 'Indent Guide' (vertical line on indentation columns) to eclipse text editor.
 
 ### Update Site
-https://github.com/NickyX3/IndentGuide/tree/master/pdt_tools.indentGuide.updateSite
+https://raw.githubusercontent.com/NickyX3/IndentGuide/master/pdt_tools.indentGuide.updateSite/
 
 ### Web page
 https://github.com/NickyX3/IndentGuide
